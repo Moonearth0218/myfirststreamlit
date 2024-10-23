@@ -1,13 +1,14 @@
 import streamlit as st
 
-st.title("👋🏻 Streamlit 앱 만들기")
-st.subheader("이 페이지는 실습 페이지입니다.")
-st.write("오른쪽 위의 'fork' 버튼을 눌러주세요. 이 페이지와 앱이 그대로 복사됩니다.")
+st.title("👋🏻 지구과학1 공지사항")
+st.subheader("Welcome to the earthscience")
+st.warning("경기여자고등학교 교사 문성윤입니다. 지구과학1과 통합과학을 가르쳐요")
 
-st.link_button("streamlit 매뉴얼 페이지 바로가기!", "https://surish.notion.site/streamlit-113eef51495c8083986cc65f2d07470c?pvs=73")
+st.link_button(" github 페이지 바로가기!", "https://github.com/Moonearth0218")
 
-# st.success("초록색 창")
-# st.error("빨간색 창")
-st.info("파란색 창")
-# st.warning("노란색 창") # ctrl+/ : 주석처리
-st.image("https://media.giphy.com/media/8bE0EERrvXkq5S9BCa/giphy.gif?cid=ecf05e479tvvde0o3d3do3g67yoq0jn4zzyg9hyt63stuf0x&ep=v1_gifs_related&rid=giphy.gif&ct=g", caption="Welcome to coding world") 
+#st.success("초록색 창")
+#st.error("빨간색 창")
+#st.info("파란색 창")
+#st.warning("노란색 창") # ctrl+/ : 주석처리
+st.image("https://media.giphy.com/media/l2JhJtetrernvblxS/giphy.gif?cid=790b7611smb0qoqsa8ez6mcjap9k3k1z508cq6qhmw84crpt&ep=v1_gifs_search&rid=giphy.gif&ct=g", caption="Welcome to coding world") 
+
