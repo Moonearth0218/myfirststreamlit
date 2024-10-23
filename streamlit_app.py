@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("👋🏻 지구과학1 공지사항")
 st.subheader("Welcome to the earthscience")
-st.warning("경기여자고등학교 교사 문성윤입니다. 지구과학1과 통합과학을 가르쳐요")
+st.warning("경기여고 교사 문성윤입니다. 지구과학1과 통합과학을 가르쳐요")
 
 st.link_button(" github 페이지 바로가기!", "https://github.com/Moonearth0218")
 
